@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/message_single_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/message_profil_layout"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/defaultavatar" />
+
+    <TextView
+        android:id="@+id/message_text_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name_text_layout"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/message_profil_layout"
+        android:padding="6dp"
+        android:text="Pesan Chat"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/name_text_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@id/message_profil_layout"
+        android:text="Display Nama"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/time_text_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_toEndOf="@id/name_text_layout"
+        android:text="00:00"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/message_lokasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/message_text_layout"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@id/message_profil_layout"
+        android:text="Lokasi"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

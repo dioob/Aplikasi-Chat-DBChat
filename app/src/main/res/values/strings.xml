@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DBChat</string>
+    <string name="buat_akun_baru">Buat Akun Baru</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="log_out">Log Out</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="login_akun">Login Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hai_aku_juga_memakai_aplikasi_dbchat">Hai! Aku juga memakai aplikasi DBChat.</string>
+    <string name="nama_user">Nama User</string>
+    <string name="ganti_gambar">Ganti Gambar</string>
+    <string name="ganti_status">Ganti Status</string>
+    <string name="status_user_dbchat">Status User DBChat</string>
+    <string name="status_kamu">Status Kamu</string>
+    <string name="simpan_perubahan">Simpan Perubahan</string>
+    <string name="total_teman">Total Teman</string>
+    <string name="kirim_permintaan_pertemanan">Kirim Permintaan Pertemanan</string>
+    <string name="permintaan_batal_pertemanan">Permintaan batal Pertemanan</string>
+    <string name="batalkan_permintaan_teman">Batalkan Permintaan Teman</string>
+    <string name="batal_permintaan_pertemanan">Batal Permintaan Pertemanan</string>
+    <string name="batalkan_permintaan_pertemanan">Batalkan Permintaan Pertemanan</string>
+    <string name="tolak_permintaan_pertemanan">TOLAK PERMINTAAN PERTEMANAN</string>
+    <string name="display_nama">Display Nama</string>
+    <string name="terakhir_dilihat">Terakhir dilihat</string>
+    <string name="tulis_pesan">Tulis pesan..</string>
+</resources>

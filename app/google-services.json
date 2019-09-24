@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "972178145070",
+    "firebase_url": "https://dbchat-5b469.firebaseio.com",
+    "project_id": "dbchat-5b469",
+    "storage_bucket": "dbchat-5b469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972178145070:android:0c5887e528121643",
+        "android_client_info": {
+          "package_name": "dioobanu.yahoo.dbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972178145070-ek00vrgajf8crs8dt52gaakfdv3hkdgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dioobanu.yahoo.dbchat",
+            "certificate_hash": "93cf5eeb7693d88fb6dedb515d2a3becacbad7ed"
+          }
+        },
+        {
+          "client_id": "972178145070-kmd7slgh72tq1e7bc81r73jppq6dt8p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggW_19APLsNUXsFCy916ZP5C9hAPo4rA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972178145070-kmd7slgh72tq1e7bc81r73jppq6dt8p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
