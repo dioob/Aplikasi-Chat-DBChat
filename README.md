@@ -40,3 +40,7 @@ Berikut contoh Screenshoot nya:
 <p align="center">
   <img width="340" height="600" src="https://github.com/dioob/Aplikasi-Chat-DBChat/blob/master/Screenshot_465.png">
 </p>
+
+<p align="center">
+  <img width="340" height="640" src="https://github.com/dioob/Aplikasi-Chat-DBChat/blob/master/Screenshot_466.png">
+</p>
